@@ -21,7 +21,7 @@ ticket = cursor.fetchone()
 
 # print(ticket)
 
-GEMINI_API_KEY = ""
+GEMINI_API_KEY = "abc"
 
 client = genai.Client(api_key = GEMINI_API_KEY) #authenticate
 
