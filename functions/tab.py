@@ -1,0 +1,6 @@
+print("hello",end=" ")
+print("Sanjali")
+print("hello",end=" ")
+print("hiba")
+print("hello",end=" ")
+print("navami")

@@ -1,0 +1,12 @@
+object oriented programming --- it is a way of programing to convert a real world object to program using class and objects
+
+class - plan ,design pattern, template,blueprint for creating real world object
+
+objects - real world entities ,built using class
+
+contructor -used to initialize attributes
+            -name of constructor is __init__
+            -automatically called while creating object of a class
+
+self -current intstance point
+super - refer to parent class
